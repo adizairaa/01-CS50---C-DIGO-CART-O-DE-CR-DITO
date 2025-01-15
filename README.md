@@ -1,6 +1,4 @@
-### Descrição para o Repositório do GitHub
 
----
 
 # 💳 Validação de Cartões de Crédito  
 
